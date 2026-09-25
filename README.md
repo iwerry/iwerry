@@ -38,6 +38,17 @@ Front-End Developer and UX/UI Designer. I build **modern, responsive and visuall
 
 <br>
 
-**📬 [draftcs21@gmail.com](mailto:draftcs21@gmail.com?subject=%5BGitHub%20Profile%5D%20Hello%20Daniel) · 🌐 [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)**
+**📬 [draftcs21@gmail.com](mailto:draftcs21@gmail.com?subject=%5BGitHub%20Profile%5D%20Hello%20Daniel) · 🌐 [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)** 
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('donatetodani', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Donate',
+    'floating-chat.donateButton.background-color': '#ffffff',
+    'floating-chat.donateButton.text-color': '#323842'
+  });
+</script>
+
 
 </div>
