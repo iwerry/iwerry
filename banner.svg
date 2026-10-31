@@ -1,42 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="title desc">
-<title id="title">Daniel Rodrigues — UX/UI Designer, Front-End Developer, Creative Technologist</title>
-<desc id="desc">Animated portfolio identity banner with electric blue condensed title, editorial serif subtitle, kinetic lines and interactive grid.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="title description">
+<title id="title">Daniel Rodrigues | UX/UI Designer and Front-End Developer</title>
+<desc id="description">DesignerX motion identity: navy editorial banner with bold lavender headline, animated perspective grid, luminous network, restrained moving light, and professional signature.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07082b"/><stop offset=".65" stop-color="#0d0f3d"/><stop offset="1" stop-color="#07082b"/></linearGradient>
-<linearGradient id="type" x1="0" x2="1"><stop stop-color="#6f74ff"/><stop offset=".5" stop-color="#a9b0ff"/><stop offset="1" stop-color="#6f74ff"/></linearGradient>
-<linearGradient id="scan" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".48" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset=".52" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#818aff" stroke-width=".75" stroke-opacity=".17"/></pattern>
-<clipPath id="letters"><text x="52" y="179" class="display">UX/UI DESIGNER</text></clipPath>
-<style>
-.display{font:900 122px 'Big Shoulders Display','Arial Narrow',Impact,sans-serif;letter-spacing:-1px}
-.strong{font:900 41px 'Big Shoulders Display','Arial Narrow',Impact,sans-serif;letter-spacing:2px}
-.serif{font:400 23px 'Newsreader',Georgia,serif;letter-spacing:.5px}
-.eyebrow{font:700 14px 'Big Shoulders Display','Arial Narrow',Impact,sans-serif;letter-spacing:4px}
-.gridmove{animation:drift 19s linear infinite}
-.orbit{animation:orbit 8s ease-in-out infinite}
-.sweep{animation:sweep 7s ease-in-out infinite}
-.line{animation:reveal 1.7s cubic-bezier(.2,.7,.2,1) both;transform-origin:0 0}
-.fade{animation:fade 1.2s ease-out both}
-@keyframes drift{to{transform:translate(34px,17px)}}
-@keyframes orbit{50%{transform:translate(-23px,-15px)}}
-@keyframes sweep{0%,12%{transform:translateX(-680px)}55%,100%{transform:translateX(1380px)}}
-@keyframes reveal{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-@keyframes fade{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
-@media(prefers-reduced-motion:reduce){.gridmove,.orbit,.sweep,.line,.fade{animation:none}}
-</style>
+ <linearGradient id="base" x2="1" y2="1"><stop stop-color="#07082b"/><stop offset=".65" stop-color="#111343"/><stop offset="1" stop-color="#07082b"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#6f74ff" stop-opacity=".33"/><stop offset="1" stop-color="#6f74ff" stop-opacity="0"/></radialGradient>
+ <linearGradient id="headline" x2="1"><stop stop-color="#6f74ff"/><stop offset=".58" stop-color="#9399ff"/><stop offset="1" stop-color="#6f74ff"/></linearGradient>
+ <linearGradient id="beam" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".49" stop-color="#e6e7ff" stop-opacity="0"/><stop offset=".5" stop-color="#e6e7ff" stop-opacity=".7"/><stop offset=".51" stop-color="#e6e7ff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#6877d9" stroke-opacity=".18" stroke-width="1"/></pattern>
+ <clipPath id="word"><rect x="45" y="86" width="1095" height="145" rx="3"/></clipPath>
+ <style>
+ .display{font-family:'Big Shoulders Display','Arial Narrow',Impact,sans-serif;font-stretch:condensed;font-weight:900}
+ .editorial{font-family:Newsreader,Georgia,serif}
+ .network circle{animation:pulse 3.8s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}
+ .network circle:nth-child(2n){animation-delay:-1.8s}
+ .network circle:nth-child(3n){animation-delay:-.9s}
+ .mesh{animation:drift 24s linear infinite}
+ .light{animation:traverse 9s ease-in-out infinite}
+ .halo{animation:float 9s ease-in-out infinite}
+ .signal{stroke-dasharray:7 70;animation:signal 6s linear infinite}
+ @keyframes drift{to{transform:translate(36px,36px)}}
+ @keyframes traverse{0%,14%{transform:translateX(-950px)}65%,100%{transform:translateX(1450px)}}
+ @keyframes float{50%{transform:translate(-26px,12px)}}
+ @keyframes pulse{from{opacity:.24;transform:scale(.68)}to{opacity:.95;transform:scale(1.18)}}
+ @keyframes signal{to{stroke-dashoffset:-77}}
+ @media(prefers-reduced-motion:reduce){.mesh,.light,.halo,.signal,.network circle{animation:none}}
+ </style>
 </defs>
-<rect width="1200" height="400" fill="url(#bg)"/>
-<rect width="1200" height="400" fill="url(#grid)" class="gridmove"/>
-<g class="orbit"><circle cx="1070" cy="100" r="66" fill="#5360ff" opacity=".075"/><circle cx="1070" cy="100" r="20" fill="#6f74ff" opacity=".38"/><circle cx="1070" cy="100" r="5" fill="#b0b4ff"/></g>
-<path d="M946 77h194M989 93h151M1020 109h120" stroke="#6f74ff" opacity=".55" stroke-width="2"/>
-<path d="M0 355H1200" stroke="#6f74ff" opacity=".48" stroke-width="1"/>
-<rect x="0" y="393" width="1200" height="7" fill="#1d21ff"/>
-<text x="52" y="70" class="eyebrow fade" fill="#a3a7dd">DESIGN  /  CODE  /  MOTION  /  AI</text>
-<text x="52" y="179" class="display fade" fill="url(#type)">UX/UI DESIGNER</text>
-<g clip-path="url(#letters)"><rect class="sweep" x="-700" y="75" width="700" height="135" fill="url(#scan)" opacity=".55"/></g>
-<rect x="55" y="197" width="760" height="4" rx="2" fill="#6f74ff" class="line"/>
-<text x="52" y="253" class="strong fade" fill="#eceeff">DANIEL RODRIGUES</text>
-<text x="52" y="294" class="serif fade" fill="#ced3ef">Front-End Developer · Creative Technology</text>
-<text x="52" y="337" class="serif" font-style="italic" fill="#9fa6d8">Interfaces and creative systems with purpose.</text>
-<g opacity=".7"><path d="M1010 263l32-32 32 32-32 32z" fill="none" stroke="#7280ff" stroke-width="3"/><path d="M1060 263l32-32 32 32-32 32z" fill="none" stroke="#7280ff" stroke-width="2"/><circle cx="1137" cy="317" r="7" fill="#8790ff"/></g>
+<rect width="1200" height="400" fill="url(#base)"/>
+<rect width="1200" height="400" fill="url(#grid)" class="mesh"/>
+<g class="halo"><ellipse cx="1020" cy="175" rx="270" ry="195" fill="url(#glow)"/></g>
+<g class="network" fill="#949dff">
+ <path d="M870 64L960 106L1088 69L1148 150L1067 212L950 195L878 274L1103 310L1167 260M960 106L950 195L1067 212L1088 69M878 274L950 195L1103 310L1067 212" fill="none" stroke="#7783eb" stroke-opacity=".32" stroke-width="1.4"/>
+ <path class="signal" d="M870 64L960 106L1088 69L1148 150L1067 212L950 195L878 274" fill="none" stroke="#c6caff" stroke-width="2"/>
+ <circle cx="870" cy="64" r="3"/><circle cx="960" cy="106" r="4"/><circle cx="1088" cy="69" r="3"/><circle cx="1148" cy="150" r="4"/><circle cx="1067" cy="212" r="4"/><circle cx="950" cy="195" r="3"/><circle cx="878" cy="274" r="4"/><circle cx="1103" cy="310" r="3"/><circle cx="1167" cy="260" r="4"/>
+</g>
+<rect x="46" y="41" width="5" height="16" rx="1" fill="#9098ff"/>
+<text x="65" y="54" fill="#bac0f4" font-size="16" letter-spacing="4" class="display">DESIGN / CODE / MOTION / AI</text>
+<g clip-path="url(#word)">
+ <text x="46" y="202" font-size="126" letter-spacing="-1.5" textLength="1035" lengthAdjust="spacingAndGlyphs" fill="url(#headline)" class="display">UX/UI DESIGNER</text>
+ <rect x="-950" y="96" width="950" height="116" fill="url(#beam)" class="light" opacity=".52"/>
+</g>
+<rect x="48" y="229" width="620" height="3" rx="1.5" fill="#727cff"/>
+<text x="48" y="278" font-size="44" letter-spacing="1.1" fill="#f2f2ff" class="display">DANIEL RODRIGUES</text>
+<text x="48" y="312" font-size="22" fill="#c6cbf3" class="editorial">Front-End Developer · Creative Technologist</text>
+<text x="48" y="345" font-size="19" font-style="italic" fill="#aab2e7" class="editorial">Interfaces and creative systems with purpose.</text>
+<path d="M0 387H1200" stroke="#686af4" stroke-opacity=".55"/><rect y="394" width="1200" height="6" fill="#1d21ff"/>
 </svg>
