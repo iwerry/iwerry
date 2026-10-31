@@ -1,155 +1,51 @@
-<div align="center">
+<div align="center"><img src="https://raw.githubusercontent.com/iwerry/danielrodrigues-cv.in/main/banner.svg" alt="Daniel Rodrigues — UX/UI Designer and Front-End Developer" width="100%">
 
-<img src="https://raw.githubusercontent.com/iwerry/danielrodrigues-cv.in/main/banner.svg" alt="Daniel Rodrigues — UX/UI Designer & Front-End Developer" width="100%">
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1d21ff?style=for-the-badge)](https://iwerry.github.io/danielrodrigues-cv.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-rodrigues-693499448/) [![Email](https://img.shields.io/badge/Email-Contact-0a0b2e?style=for-the-badge)](mailto:rodrigues.ux@proton.me)
 
-<br><br>
+# Daniel Rodrigues
+**UX/UI Designer · Front-End Developer · Creative Technologist**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-open-1d21ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://iwerry.github.io/danielrodrigues-cv.in/)
-[![DesignerX](https://img.shields.io/badge/DESIGNERX-AI%20Design%20Skill-6f74ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iwerry/designerx)
-[![Email](https://img.shields.io/badge/EMAIL-draftcs21%40gmail.com-0a0b2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:draftcs21@gmail.com?subject=%5BGitHub%20Profile%5D%20Hello%20Daniel)
-
+*Design · Code · Motion · AI*
 </div>
 
-# 👋 Daniel Rodrigues
+## About
+I design and build responsive digital interfaces, combining front-end development with visual communication, storytelling and AI-assisted creative workflows. My background spans web development, audiovisual production, motion design and journalism.
 
-**UX/UI Designer · Front-End Developer · Creative Technologist · Audiovisual & AI**
+**Based in Brazil · Open to remote work and international relocation.**
 
-I design and build **modern, responsive and visually rich digital experiences**, combining front-end development with UX/UI, motion, 3D, audiovisual production and AI-assisted creative workflows.
-
-My background in **journalism, visual communication and audiovisual production** shapes how I approach technology: not only as code, but as **interface, narrative, visual language and user experience**.
-
-🌐 **English · Português · Español**
-
----
-
-## 🧠 What I do
-
-- 🎨 **UX/UI & Product Design** — interfaces, design systems, prototyping and visual direction
-- 💻 **Front-End Development** — HTML5, CSS3, JavaScript, TypeScript, React, Next.js and Tailwind
-- 🤖 **AI & Creative Technology** — agent skills, prompt systems, generative AI and creative pipelines
-- 🎬 **Audiovisual & Motion** — editing, motion design, VFX, 3D and cinematic workflows
-- 📰 **Journalism & OSINT** — investigative workflows, verification, research and information integrity
-- 📸 **Photography & Visual Storytelling** — documentary, institutional and cultural projects
-
----
-
-## 🧰 Stack & Skills
-
-### Front-End & Web
-
-HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS
-
-### UX/UI & Design
-
-Figma · Penpot · UXPin · Prototyping · UX Research · Design Systems · WebGL · GLSL
-
-### Creative Technology
-
-AI Workflows · Generative AI · Motion Design · 3D · VFX · Creative Coding · ComfyUI
-
-### Audiovisual
-
-Adobe Premiere Pro · After Effects · Photoshop · Illustrator · DaVinci Resolve · Blender · Cinema 4D
-
-### Development & Data
-
-Python · PHP · MySQL · Git · Linux · Docker
-
----
-
-# 🚀 Selected Projects
-
-## 🤖 AI, Skills & Creative Engines
-
+## AI Skills & Creative Engineering
 | Project | Description |
 |---|---|
-| **[DesignerX](https://github.com/iwerry/designerx)** | AI design skill pack that gives coding agents a professional design vocabulary, UX critique, accessibility auditing, anti-pattern detection, polish workflows, localization and engineering handoff. |
-| **[CineOS 3.2](https://github.com/iwerry/CineOS_3.2)** | Engine-agnostic AI film production system covering story, cinematography, visual DNA, prompt compilation, continuity, cinema audit, editing, post-production and delivery. |
-| **[skill-master-scene](https://github.com/iwerry/skill-master-scene)** | Knowledge engine for formatting, validating, linting and converting screenplays using the Master Scene standard, designed to run as an AI agent skill. |
-| **[jornalism.skill](https://github.com/iwerry/jornalism.skill)** | Modular AI skill for investigative journalism, OSINT, geolocation, fact-checking, data journalism, source protection and information integrity. |
+| [DesignerX](https://github.com/iwerry/designerx) | Agent-based UX/UI critique, design systems, accessibility and engineering handoff. |
+| [Daniskills 3.3](https://github.com/iwerry/Daniskills) | Cinematic AI production architecture, continuity, prompting and quality assurance; successor to CineOS. |
+| [code2video — AI Motion Director](https://github.com/iwerry/code2video) | Code-driven motion graphics with Canvas-to-MP4 rendering, audio and QA. |
+| [LinkedIn Profile Optimizer](https://github.com/iwerry/linkedin-skills-pro) | LinkedIn headline, experience and skills optimization. |
+| [skill-master-scene](https://github.com/iwerry/skill-master-scene) | Master Scene screenplay formatting and validation. |
 
----
+## Digital Products & Live Sites
+| Project | Live Demo | Focus |
+|---|---|---|
+| Brasil Mostra Japão | [Website](https://brasilmostrajapao.com.br) | Cultural event platform |
+| Entre Elas | [Website](https://www.projetoentreelas.com.br) | Professional training and social impact |
+| Foto Cidade DF | [Website](https://fotocidadedf.com.br) | Photography and territorial communication |
+| Photography 60+ | [Website](https://fotografiabsb.vercel.app) | Eight-week course created and taught by Daniel Rodrigues |
+| Personal Portfolio | [Website](https://iwerry.github.io/danielrodrigues-cv.in/) | Interactive multilingual web experience |
 
-## 🌐 Web Platforms & Digital Experiences
+**Source:** [BMJ2026](https://github.com/iwerry/BMJ2026) · [EntreElas](https://github.com/iwerry/EntreElas) · [Foto Cidade DF](https://github.com/iwerry/Foto-Cidade-DF) · [Photography 60+](https://github.com/iwerry/curso-fotografia-60mais-ptbr)
 
-| Project | Description |
-|---|---|
-| **[danielrodrigues-cv.in](https://github.com/iwerry/danielrodrigues-cv.in)** | Personal portfolio and professional profile — multilingual static site with a WebGL/GLSL hero and a design-led visual system. |
-| **[Foto-Cidade-DF](https://github.com/iwerry/Foto-Cidade-DF)** | Territorial mapping, cultural production and community communication platform focused on Sobradinho, Fercal and Grande Colorado, DF. |
-| **[EntreElas](https://github.com/iwerry/EntreElas)** | Digital platform for the Entre Elas project, focused on professional training and empowerment of women in the Federal District. |
-| **[BMJ2026](https://github.com/iwerry/BMJ2026)** | Official digital experience for Brasil Mostra Japão 2026, focused on Japanese culture, anime, manga, cosplay, art and events. |
-| **[curso-fotografia-60mais-ptbr](https://github.com/iwerry/curso-fotografia-60mais-ptbr)** | Photography learning platform for people 60+, combining educational content, ebooks, video lessons and practical exercises. |
+## Skills
+**Front-End:** HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
----
+**UX/UI:** Responsive Design · Figma · Penpot · Prototyping · UX Research · Design Systems
 
-## 🎬 Creative Technology
+**Creative Technology:** Generative AI · Motion Design · 3D · Photography · Video · Visual Storytelling
 
-My work sits at the intersection of **design + code + audiovisual + AI**.
+**Additional Background:** CMS · WordPress · Drupal · PHP/MySQL · GNU/Linux · Journalism & OSINT
 
-DESIGN → SYSTEMS → FRONT-END → MOTION / 3D / WEBGL → AI → AUDIOVISUAL → STORYTELLING
+## Education & Languages
+**Audiovisual & Filmmaking — Undergraduate Studies (not completed)**, Universidade Uninabuco Digital · 2021–2023
 
-I am particularly interested in building systems where **AI does not replace creative direction — it amplifies it**.
+Portuguese — Native · Spanish — C1 · English — B1
 
----
-
-## 🧩 DesignerX
-
-One of my current open-source projects is **DesignerX**, a skill system for AI coding agents.
-
-Instead of asking an AI to simply:
-
-> "make it look good"
-
-DesignerX gives the agent a structured design methodology.
-
-DESIGN CONTEXT → DESIGN SYSTEM → UX / ACCESSIBILITY → CRITIQUE → ANTI-PATTERN DETECTION → POLISH → SIGNATURE → HANDOFF
-
-It currently provides **27 commands across 18 agent platforms**, including:
-
-craft · init · document · critique · audit · polish · animate · typeset · layout · signature · localize · handoff
-
-👉 **[Explore DesignerX →](https://github.com/iwerry/designerx)**
-
----
-
-## 🎓 Background
-
-| Period | Focus |
-|---|---|
-| **2021–2023** | 🎬 Bachelor's Degree in Audiovisual — Filmmaking |
-| **2016–2026** | 🎥 Audiovisual production, communication, motion and AI workflows |
-| **2002–2015** | 💻 Web design, CMS, Drupal, WordPress, PHP/MySQL and systems |
-
-**10+ years** working across audiovisual production, journalism, communication, design and digital technology.
-
----
-
-## 🌎 Languages
-
-- 🇧🇷 **Portuguese** — Native
-- 🇪🇸 **Spanish** — C1
-- 🇺🇸 **English** — B1
-
----
-
-## 📬 Let's work together
-
-I'm interested in projects involving:
-
-**Front-End · UX/UI · Creative Technology · AI · Audiovisual · Motion Design · Digital Products · Journalism · Communication**
-
-<div align="center">
-
-### 🌐 Portfolio
-
-**[iwerry.github.io/danielrodrigues-cv.in](https://iwerry.github.io/danielrodrigues-cv.in/)**
-
-<br>
-
-📧 **[draftcs21@gmail.com](mailto:draftcs21@gmail.com?subject=%5BGitHub%20Profile%5D%20Hello%20Daniel)**
-
-<br><br>
-
-<sub>Design · Code · Cinema · AI · Storytelling</sub>
-
-</div>
+## Contact
+[Email](mailto:rodrigues.ux@proton.me) · [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-693499448/) · [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)
