@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/iwerry/danielrodrigues-cv.in/main/banner.svg" alt="Daniel Rodrigues — UX/UI Designer and Front-End Developer" width="100%">
+<div align="center"><img src="./banner.svg" alt="Daniel Rodrigues — UX/UI Designer and Front-End Developer" width="100%">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1d21ff?style=for-the-badge)](https://iwerry.github.io/danielrodrigues-cv.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-rodrigues-693499448/) [![Email](https://img.shields.io/badge/Email-Contact-0a0b2e?style=for-the-badge)](mailto:rodrigues.ux@proton.me)
 
