@@ -6,6 +6,12 @@
 **UX/UI Designer · Front-End Developer · Creative Technologist**
 
 *Design · Code · Motion · AI*
+
+### 💬 Let's connect
+
+[![Message or connect on LinkedIn](https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodrigues-ux/)
+
+*Open to UX/UI Design, Front-End Development and international opportunities.*
 </div>
 
 ## About
