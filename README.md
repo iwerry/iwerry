@@ -1,6 +1,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/iwerry/iwerry/main/banner.svg?v=20261031-2315" alt="Daniel Rodrigues — UX/UI Designer and Front-End Developer" width="100%">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1d21ff?style=for-the-badge)](https://iwerry.github.io/danielrodrigues-cv.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-rodrigues-693499448/) [![Email](https://img.shields.io/badge/Email-Contact-0a0b2e?style=for-the-badge)](mailto:rodrigues.ux@proton.me)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1d21ff?style=for-the-badge)](https://iwerry.github.io/danielrodrigues-cv.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-rodrigues-ux/) [![Email](https://img.shields.io/badge/Email-Contact-0a0b2e?style=for-the-badge)](mailto:rodrigues.ux@proton.me)
 
 # Daniel Rodrigues
 **UX/UI Designer · Front-End Developer · Creative Technologist**
@@ -48,4 +48,4 @@ I design and build responsive digital interfaces, combining front-end developmen
 Portuguese — Native · Spanish — C1 · English — B1
 
 ## Contact
-[Email](mailto:rodrigues.ux@proton.me) · [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-693499448/) · [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)
+[Email](mailto:rodrigues.ux@proton.me) · [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-ux/) · [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)
