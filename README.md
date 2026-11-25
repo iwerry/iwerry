@@ -1,11 +1,12 @@
 <div align="center"><img src="https://raw.githubusercontent.com/iwerry/iwerry/main/banner.svg?v=20261031-2315" alt="Daniel Rodrigues — UX/UI Designer and Front-End Developer" width="100%">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1d21ff?style=for-the-badge)](https://iwerry.github.io/danielrodrigues-cv.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-rodrigues-ux/) [![Email](https://img.shields.io/badge/Email-Contact-0a0b2e?style=for-the-badge)](mailto:rodrigues.ux@proton.me)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-1167e8?style=for-the-badge)](https://iwerry.github.io/danielrodrigues-cv.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-rodrigues-ux/) [![Email](https://img.shields.io/badge/Email-Contact-081629?style=for-the-badge)](mailto:draftcs21@gmail.com)
 
 # Daniel Rodrigues
 **UX/UI Designer · Front-End Developer · Creative Technologist**
 
-*Design · Code · Motion · AI*
+*Design · Code · Motion · AI*  
+*Digital interfaces designed with intention, built with code, and extended through creative AI.*
 
 ### 💬 Let's connect
 
@@ -48,10 +49,18 @@ I design and build responsive digital interfaces, combining front-end developmen
 
 **Additional Background:** CMS · WordPress · Drupal · PHP/MySQL · GNU/Linux · Journalism & OSINT
 
+## Professional Experience
+**Draft Creative Studio (2016–present)** — UX/UI design, responsive websites and front-end implementation, with creative technology, motion and AI workflows supporting digital experiences.
+
+**Web Design & Technical Systems (2002–2015)** — Web design, CMS development, WordPress, Drupal, PHP, MySQL and GNU/Linux environments.
+
+**Credentials:** Registered Journalist (Brazil), DRT Nº 0016639/DF. AI training in progress through Claude Academy (Anthropic) and OpenAI Academy.
+
 ## Education & Languages
 **Audiovisual & Filmmaking — Undergraduate Studies (not completed)**, Universidade Uninabuco Digital · 2021–2023
 
-Portuguese — Native · Spanish — C1 · English — B1
+Portuguese — Native · Spanish — C1 · English — B1  
+[View certificates](https://drive.google.com/drive/folders/1CzAd2TRzlszizv5Tpz7VWMGog4B78gaL?usp=sharing)
 
 ## Contact
-[Email](mailto:rodrigues.ux@proton.me) · [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-ux/) · [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)
+[Email](mailto:draftcs21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daniel-rodrigues-ux/) · [Portfolio](https://iwerry.github.io/danielrodrigues-cv.in/)
